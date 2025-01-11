@@ -1,0 +1,14 @@
+div{
+    color: brown;
+    text-shadow: 10px;
+    background-color: aqua;
+    padding: 10px;
+    border: 10px;
+    border-radius: 10px;
+
+}
+p{
+    color: red;
+    text-align: center;
+    border: 10px color(rec2020 red green blue);
+}
